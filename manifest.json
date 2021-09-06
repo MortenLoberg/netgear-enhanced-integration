@@ -5,4 +5,5 @@
   "dependencies": [],
   "codeowners": ["@bigrob8181"],
   "requirements": ["pynetgear-enhanced==0.2.2"]
+  "version": "0.2.2"
 }
